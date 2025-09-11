@@ -1,5 +1,5 @@
 # Hello, I'm Manuel
-<a href="https://www.linkedin.com/in/manuel-a-6a3237218"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/myarmah"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -8,7 +8,7 @@ I am a seasoned military leader with extensive experience mentoring and guiding 
 ## Objective
 
 
-To become a SOC analyst specializing in cloud security, leveraging threat intelligence and incident response frameworks to monitor hybrid environments, mitigate risks, and optimize cloud-native defenses using tools like SIEM and CNAPP
+Aspiring Cloud and DevOps Engineer with a strong background in cybersecurity and system administration. Dedicated to leveraging automation and cloud-native technologies to build secure, scalable, and efficient infrastructure solutions.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
