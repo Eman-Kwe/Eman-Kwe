@@ -28,14 +28,15 @@ To become a SOC analyst specializing in cloud security, leveraging threat intell
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-7AB800?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap badge" />
+    <img src="https://img.shields.io/badge/-Snort-DC3E23?style=for-the-badge&logo=snort&logoColor=white" alt="Snort badge" />
+
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    
 </div>
 
 
@@ -43,12 +44,21 @@ To become a SOC analyst specializing in cloud security, leveraging threat intell
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-00A4EF?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform_Cloud-4040B2?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+
 </div>
 
 ### AI
 <div>
    <img src="https://img.shields.io/badge/-Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-IBM_watsonx.ai-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Gemini-FF6F61?style=for-the-badge&logo=googlechat&logoColor=white" alt="Gemini badge" />
+   <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT badge" />
+   <img src="https://img.shields.io/badge/-Perplexity-091717?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity badge" />
+
+    
 </div>
 
 ### Digial Forensics
@@ -70,12 +80,20 @@ To become a SOC analyst specializing in cloud security, leveraging threat intell
 <div>
    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />  
    <img src="https://img.shields.io/badge/-AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-   <img src="https://img.shields.io/badge/-AI--900_Microsoft_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Splunk_Core-FF5722?style=for-the-badge&logo=splunk&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
    <img src="https://img.shields.io/badge/-IBM_AI_Professional-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />  
-   <img src="https://img.shields.io/badge/-CEH_Certified_Ethical_Hacker-009639?style=for-the-badge&logo=ceh&logoColor=white" />  
-   <img src="https://img.shields.io/badge/-CompTIA_Network%2B-0073C1?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  
+</div>
+
+
+## Certifications in progress
+
+<div>
+    <img src="https://img.shields.io/badge/-Terraform_Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+   <img src="https://img.shields.io/badge/-AWS_Developer_Associate-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+   <img src="https://img.shields.io/badge/-AWS_AI-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ## Projects
