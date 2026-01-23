@@ -3,7 +3,7 @@
 
 
 
-I am a seasoned military leader with extensive experience mentoring and guiding junior Marines, leading high-performing teams, and achieving mission-critical objectives. Strong foundation in technical skills and problem-solving, reinforced by academic pursuits in Cybersecurity and hands-on experience in IT labs and projects. 
+Cloud/DevOps engineering student, with hands-on experience deploying and automating cloud infrastructure using AWS, Terraform/CloudFormation, CI/CD pipelines, and Python/Bash scripting. Familiar with serverless (AWS Lambda) and cloud best practices aligned to the AWS Well-Architected Framework. Proven leadership and teamwork from active-duty U.S. Marine Corps service. 
 
 ## Objective
 
