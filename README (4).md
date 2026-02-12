@@ -103,9 +103,7 @@ Aspiring Cloud and DevOps Engineer with a strong background in cybersecurity and
 <div>
     <img src="https://img.shields.io/badge/-Terraform_Associate_004-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Linux%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-   <img src="https://img.shields.io/badge/-AWS_Developer_Associate-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-   <img src="https://img.shields.io/badge/-AWS_AI-FFB81C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    
 </div>
 
 ## Projects
