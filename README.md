@@ -94,16 +94,16 @@ Aspiring Cloud and DevOps Engineer with a strong background in cybersecurity and
    <img src="https://img.shields.io/badge/-Splunk_Core_User-FF5722?style=for-the-badge&logo=splunk&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
    <img src="https://img.shields.io/badge/-IBM_AI_Professional-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />  
-  
+   <img src="https://img.shields.io/badge/-Terraform_Associate_004-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 
 ## Certifications in progress
 
 <div>
-    <img src="https://img.shields.io/badge/-Terraform_Associate_004-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Linux%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </div>
 
 ## Projects
