@@ -4,20 +4,15 @@
 
 ## About Me
 
-I'm a U.S. Marine moving into cloud engineering. In the Marine Corps my job was keeping people safe and equipment working, and I trained and supervised other Marines to do the same. Now I apply that mindset to data and infrastructure: building, securing and automating cloud environments so the systems people rely on, like banks and utilities, stay available and protected.
+I'm a U.S. Marine with cloud and DevOps engineering experience. In the Marine Corps my job was keeping people safe and equipment working, and I trained and supervised other Marines to do the same. Now I apply that mindset to data and infrastructure: building, securing and automating cloud environments so the systems people rely on, like banks and utilities, stay available and protected.
 
 Hands-on, I build AWS and Azure environments with Terraform and CloudFormation, automate with Python and Bash, and put security checks into CI/CD pipelines. My newest projects are a **Jenkins DevSecOps pipeline** that scans every change for secrets, vulnerable dependencies and insecure configuration before it reaches Kubernetes, and a **live Windows Server migration from AWS to Azure** that I tested, cut over, then verified and tore down. I record a walkthrough video for each project so the reasoning is easy to follow.
 
-Consistently commended for my discipline and reliability, attention to detail, how quickly I learn new tools, and my willingness to teach others.
+Consistently commended for my discipline and reliability, attention to detail, how quickly I learn new tools, my willingness to teach others, and my ability to explain technical topics clearly to business and non-technical audiences.
 
 ## Objective
 
 Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevSecOps) and Cloud Infrastructure roles where I can build reliable, secure and automated infrastructure.
-
-## Education
-
-- B.S. Cybersecurity, Purdue University Global (4.0 GPA)
-- B.S. Computer Science, University of the People (3.8 GPA)
 
 ## Skills
 
