@@ -4,11 +4,20 @@
 
 ## About Me
 
-I'm a U.S. Marine with cloud and DevOps engineering experience. In the Marine Corps my job was keeping people safe and equipment working, and I trained and supervised other Marines to do the same. Now I apply that mindset to data and infrastructure: building, securing and automating cloud environments so the systems people rely on, like banks and utilities, stay available and protected.
+I'm a U.S. Marine veteran with cloud and DevOps engineering experience. In the Marine Corps my job was keeping people safe and equipment working, and I trained and supervised other Marines to do the same. Service taught me discipline, accountability and how to work as part of a team. Now I apply that mindset to data and infrastructure: building, securing and automating cloud environments so the systems people rely on, like banks and utilities, stay available and protected.
 
 Hands-on, I build AWS and Azure environments with Terraform and CloudFormation, automate with Python and Bash, and put security checks into CI/CD pipelines. My newest projects are a **Jenkins DevSecOps pipeline** that scans every change for secrets, vulnerable dependencies and insecure configuration before it reaches Kubernetes, and a **live Windows Server migration from AWS to Azure** that I tested, cut over, then verified and tore down. I record a walkthrough video for each project so the reasoning is easy to follow.
 
 Consistently commended for my discipline and reliability, attention to detail, how quickly I learn new tools, my willingness to teach others, and my ability to explain technical topics clearly to business and non-technical audiences.
+
+## Soft Skills
+
+- **Leadership and mentoring:** trained and supervised fellow Marines on equipment and readiness procedures, and served as Assistant Team Lead on a cyber threat intelligence team, reviewing analysts' work and giving feedback.
+- **Accountability and discipline:** kept logs, checklists and readiness records, and followed procedures to escalate problems I could not solve myself.
+- **Clear communication:** I explain technical topics in plain language to business and non-technical audiences, and I record walkthrough videos for my projects.
+- **Teamwork:** comfortable working with people from different backgrounds toward one mission.
+- **Service mindset:** volunteer with the USO and the Navy-Marine Corps Relief Society, helping service members and military families find the resources they need.
+- **Fast, self-directed learning:** earned several cloud and security certifications while serving.
 
 ## Objective
 
