@@ -165,5 +165,6 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 - <a href="https://medium.com/@myarmah/linux-system-performance-troubleshooting-benchmarking-monitoring-and-diagnostics-11d0c47871a7">Linux System Performance & Troubleshooting: Benchmarking, Monitoring, and Diagnostics</a>
 - <a href="https://medium.com/@myarmah/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure and Scalable Linux User Management for LevelUp Bank</a>
 - <a href="https://medium.com/@myarmah/deploying-apache-web-server-on-amazon-linux-2-ec2-instance-%EF%B8%8F-b0d347a0844e">Deploying Apache Web Server on Amazon Linux 2 EC2 Instance</a>
+- <a href="https://medium.com/@myarmah/secure-remote-administration-and-troubleshooting-of-ec2-instances-c07b432b59a9">Secure Remote Administration and Troubleshooting of EC2 Instances</a>
 - <a href="https://medium.com/@myarmah/mastering-the-aws-command-line-interface-cli-%EF%B8%8F-%EF%B8%8F-f4a727c39847">Mastering the AWS Command Line Interface (CLI)</a>
 - <a href="https://medium.com/@myarmah/building-the-future-hosting-level-up-banks-website-on-aws-s3-2236ac32e3e3">Building the Future: Hosting Level Up Bank's Website on AWS S3</a>
