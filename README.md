@@ -84,6 +84,7 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Boto3 badge" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
@@ -91,9 +92,11 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 ### AI
 <div>
    <img src="https://img.shields.io/badge/-Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Gemini-FF6F61?style=for-the-badge&logo=googlechat&logoColor=white" alt="Gemini badge" />
+   <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude badge" />
    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT badge" />
    <img src="https://img.shields.io/badge/-Perplexity-091717?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity badge" />
+   <img src="https://img.shields.io/badge/-Hermes-5A3FFF?style=for-the-badge&logoColor=white" alt="Hermes badge" />
+   <img src="https://img.shields.io/badge/-Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok badge" />
 
     
 </div>
@@ -108,11 +111,39 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 </div>
 
 
+### Collaboration & Ticketing
+<div>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge" />
+    <img src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence badge" />
+</div>
+
+### Systems & Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server badge" />
+    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware badge" />
+</div>
+
+### Frameworks & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-C8102E?style=for-the-badge&logoColor=white" alt="MITRE ATT&CK badge" />
+    <img src="https://img.shields.io/badge/-Diamond_Model-444444?style=for-the-badge&logoColor=white" alt="Diamond Model badge" />
+    <img src="https://img.shields.io/badge/-NIST_SP_800--53-005288?style=for-the-badge&logoColor=white" alt="NIST SP 800-53 badge" />
+</div>
+
+### Data & Reporting
+<div>
+    <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge" />
+    <img src="https://img.shields.io/badge/-Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access badge" />
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk_Enterprise_Security-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Security badge" />
+    <img src="https://img.shields.io/badge/-ServiceNow-62D84E?&style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow badge" />
 </div>
 
 ## Certifications
