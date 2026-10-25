@@ -65,7 +65,7 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-4040B2?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+   
 
 
 </div>
@@ -91,7 +91,6 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 
 ### AI
 <div>
-   <img src="https://img.shields.io/badge/-Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
    <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude badge" />
    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT badge" />
    <img src="https://img.shields.io/badge/-Perplexity-091717?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity badge" />
@@ -139,7 +138,6 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk_Enterprise_Security-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Security badge" />
