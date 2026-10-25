@@ -24,15 +24,15 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | CI/CD & DevSecOps (Jenkins, Trivy, Semgrep, Kubernetes) | <a href="https://github.com/Eman-Kwe/Jenkins-DevSecOps-Pipeline-with-Docker-and-Kubernetes">Jenkins DevSecOps Pipeline with Docker and Kubernetes</a>|
-| Cloud Infrastructure & IaC (Terraform/CloudFormation) | <a href="https://medium.com/@kweku008/automating-aws-infrastructure-with-cloudformation-%EF%B8%8F-466c7acc910f">AWS Infrastructure & Serverless Deployment</a>|
+| Cloud Infrastructure & IaC (Terraform/CloudFormation) | <a href="https://medium.com/@myarmah/automating-aws-infrastructure-with-cloudformation-%EF%B8%8F-466c7acc910f">AWS Infrastructure & Serverless Deployment</a>|
 | Cloud Migration (Azure Migrate, Terraform) | Windows Server Migration from AWS to Azure (walkthrough video coming soon)|
 | Azure Security & Governance (RBAC, Policy, Key Vault, NSG) | <a href="https://github.com/Eman-Kwe/Securing-Azure-Infrastructure-Cloud-Governance-and-Security-Hardening">Securing Azure Infrastructure: Cloud Governance and Security Hardening</a>|
-| CI/CD Pipeline Design (AWS CodePipeline, GitHub Actions) | <a href="https://medium.com/@kweku008/ci-cd-pipeline-for-static-website-s3-deployment-using-aws-codepipeline-a56aaf672732">CI/CD Pipeline for Static Website (S3)</a>|
+| CI/CD Pipeline Design (AWS CodePipeline, GitHub Actions) | <a href="https://medium.com/@myarmah/ci-cd-pipeline-for-static-website-s3-deployment-using-aws-codepipeline-a56aaf672732">CI/CD Pipeline for Static Website (S3)</a>|
 | Python Scripting & Automation | <a href="https://github.com/Eman-Kwe/AWS-EC2-Random-Name-Generator">EC2 Random Name Generator</a>|
 | Network Security (pfSense, VLANs, IDS, WireGuard) | <a href="https://github.com/Eman-Kwe/Homelab-Network-Security">Homelab Network Security</a>|
-| Linux System Administration & Hardening | <a href="https://medium.com/@kweku008/linux-system-performance-troubleshooting-benchmarking-monitoring-and-diagnostics-11d0c47871a7">Linux System Performance & Troubleshooting</a>|
-| AWS Serverless & Security (Lambda, IAM, DynamoDB) | <a href="https://medium.com/@kweku008/secure-access-patterns-for-aws-dynamodb-from-ec2-8e541baa46ae">Secure Access Patterns for AWS DynamoDB</a>|
-| User Permission Management & Access Control        | <a href="https://medium.com/@kweku008/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure and Scalable Linux User Management</a>|
+| Linux System Administration & Hardening | <a href="https://medium.com/@myarmah/linux-system-performance-troubleshooting-benchmarking-monitoring-and-diagnostics-11d0c47871a7">Linux System Performance & Troubleshooting</a>|
+| AWS Serverless & Security (Lambda, IAM, DynamoDB) | <a href="https://medium.com/@myarmah/secure-access-patterns-for-aws-dynamodb-from-ec2-8e541baa46ae">Secure Access Patterns for AWS DynamoDB</a>|
+| User Permission Management & Access Control        | <a href="https://medium.com/@myarmah/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure and Scalable Linux User Management</a>|
 
 ## Tools
 
@@ -117,6 +117,7 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_CE-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Terraform_Associate_004-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
    <img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Zscaler_Zero_Trust_Cyber_Associate-0079D5?style=for-the-badge&logo=zscaler&logoColor=white" />  
    <img src="https://img.shields.io/badge/-AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Splunk_Core_User-FF5722?style=for-the-badge&logo=splunk&logoColor=white" />  
    <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
@@ -152,17 +153,17 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
 - <a href="https://github.com/Eman-Kwe/Homelab-Network-Security">Homelab Network Security: pfSense, VLANs, IDS and encrypted DNS</a>
 
 **AWS and Linux write-ups (Medium)**
-- <a href="https://medium.com/@kweku008/ci-cd-pipeline-for-static-website-s3-deployment-using-aws-codepipeline-a56aaf672732">CI/CD Pipeline for Static Website (S3) Deployment Using AWS CodePipeline</a>
-- <a href="https://medium.com/@kweku008/windows-disk-encryption-with-bitlocker-hands-on-step-by-step-tutorial-63e70fc42cc2">Windows Disk Encryption with BitLocker: Hands-On Tutorial</a>
-- <a href="https://medium.com/@kweku008/secure-access-patterns-for-aws-dynamodb-from-ec2-8e541baa46ae">Secure Access Patterns for AWS DynamoDB from EC2</a>
-- <a href="https://medium.com/@kweku008/two-tier-architecture-with-joomla-on-aws-from-zero-to-auto-scaling-hero-2dbeb51cc0c6">Two-Tier Architecture with Joomla on AWS: From Zero to Auto Scaling Hero</a>
-- <a href="https://medium.com/@kweku008/automating-aws-infrastructure-with-cloudformation-%EF%B8%8F-466c7acc910f">Automating AWS Infrastructure with CloudFormation</a>
-- <a href="https://medium.com/@kweku008/level-up-bank-highly-available-aws-web-tier-with-auto-scaling-alb-efs-%EF%B8%8F-bbdfeaca6873">Level-Up Bank | Highly Available AWS Web Tier with Auto Scaling, ALB & EFS</a>
-- <a href="https://medium.com/@kweku008/%EF%B8%8F-level-up-bank-migrating-an-apache-web-server-to-aws-ec2-a9663fa7290e">Level-Up Bank: Migrating an Apache Web Server to AWS EC2</a>
-- <a href="https://medium.com/@kweku008/%EF%B8%8F-level-up-bank-migrating-an-apache-web-server-to-aws-ec2-a9663fa7290e">How to Deploy DokuWiki on AWS EC2 Using User Data</a>
-- <a href="https://medium.com/@kweku008/linux-system-performance-troubleshooting-benchmarking-monitoring-and-diagnostics-11d0c47871a7">Linux System Performance & Troubleshooting: Benchmarking, Monitoring, and Diagnostics</a>
-- <a href="https://medium.com/@kweku008/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure and Scalable Linux User Management for LevelUp Bank</a>
-- <a href="https://medium.com/@kweku008/deploying-apache-web-server-on-amazon-linux-2-ec2-instance-%EF%B8%8F-b0d347a0844e">Deploying Apache Web Server on Amazon Linux 2 EC2 Instance</a>
-- <a href="https://medium.com/@kweku008/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure Remote Administration and Troubleshooting of EC2 Instances</a>
-- <a href="https://medium.com/@kweku008/mastering-the-aws-command-line-interface-cli-%EF%B8%8F-%EF%B8%8F-f4a727c39847">Mastering the AWS Command Line Interface (CLI)</a>
-- <a href="https://medium.com/@kweku008/building-the-future-hosting-level-up-banks-website-on-aws-s3-2236ac32e3e3">Building the Future: Hosting Level Up Bank's Website on AWS S3</a>
+- <a href="https://medium.com/@myarmah/how-i-built-a-ci-cd-quality-gate-with-github-actions-python-and-aws-cloudwatch-for-levelup-bank-a5559c76a92d">How I Built a CI/CD Quality Gate with GitHub Actions, Python, and AWS CloudWatch for LevelUp Bank</a>
+- <a href="https://medium.com/@myarmah/ci-cd-pipeline-for-static-website-s3-deployment-using-aws-codepipeline-a56aaf672732">CI/CD Pipeline for Static Website (S3) Deployment Using AWS CodePipeline</a>
+- <a href="https://medium.com/@myarmah/windows-disk-encryption-with-bitlocker-hands-on-step-by-step-tutorial-63e70fc42cc2">Windows Disk Encryption with BitLocker: Hands-On Tutorial</a>
+- <a href="https://medium.com/@myarmah/secure-access-patterns-for-aws-dynamodb-from-ec2-8e541baa46ae">Secure Access Patterns for AWS DynamoDB from EC2</a>
+- <a href="https://medium.com/@myarmah/two-tier-architecture-with-joomla-on-aws-from-zero-to-auto-scaling-hero-2dbeb51cc0c6">Two-Tier Architecture with Joomla on AWS: From Zero to Auto Scaling Hero</a>
+- <a href="https://medium.com/@myarmah/automating-aws-infrastructure-with-cloudformation-%EF%B8%8F-466c7acc910f">Automating AWS Infrastructure with CloudFormation</a>
+- <a href="https://medium.com/@myarmah/level-up-bank-highly-available-aws-web-tier-with-auto-scaling-alb-efs-%EF%B8%8F-bbdfeaca6873">Level-Up Bank | Highly Available AWS Web Tier with Auto Scaling, ALB & EFS</a>
+- <a href="https://medium.com/@myarmah/%EF%B8%8F-level-up-bank-migrating-an-apache-web-server-to-aws-ec2-a9663fa7290e">Level-Up Bank: Migrating an Apache Web Server to AWS EC2</a>
+- <a href="https://medium.com/@myarmah/%EF%B8%8F-how-to-deploy-dokuwiki-on-aws-ec2-using-user-data-bee57afcd997">How to Deploy DokuWiki on AWS EC2 Using User Data</a>
+- <a href="https://medium.com/@myarmah/linux-system-performance-troubleshooting-benchmarking-monitoring-and-diagnostics-11d0c47871a7">Linux System Performance & Troubleshooting: Benchmarking, Monitoring, and Diagnostics</a>
+- <a href="https://medium.com/@myarmah/secure-and-scalable-linux-user-management-for-levelup-bank-d603580dd149">Secure and Scalable Linux User Management for LevelUp Bank</a>
+- <a href="https://medium.com/@myarmah/deploying-apache-web-server-on-amazon-linux-2-ec2-instance-%EF%B8%8F-b0d347a0844e">Deploying Apache Web Server on Amazon Linux 2 EC2 Instance</a>
+- <a href="https://medium.com/@myarmah/mastering-the-aws-command-line-interface-cli-%EF%B8%8F-%EF%B8%8F-f4a727c39847">Mastering the AWS Command Line Interface (CLI)</a>
+- <a href="https://medium.com/@myarmah/building-the-future-hosting-level-up-banks-website-on-aws-s3-2236ac32e3e3">Building the Future: Hosting Level Up Bank's Website on AWS S3</a>
