@@ -142,6 +142,8 @@ Seeking Cloud / DevOps Engineer, Site Reliability Engineer, Cloud Security (DevS
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk_Enterprise_Security-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Security badge" />
+    <img src="https://img.shields.io/badge/-ServiceNow-62D84E?&style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow badge" />
 </div>
 
 ## Certifications
